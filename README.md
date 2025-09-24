@@ -1,5 +1,9 @@
-## Laying the Groundwork
-Include Infographics
+## Foundational Concepts for Neural Networks
+As groundwork for the project, foundational concepts of neural networks have been outlined to establish a solid base. Core elements such as perceptrons, multilayer perceptrons, and activation functions, along with the training process involving forward propagation, loss computation, backpropagation, and parameter updates, form crucial aspects of the learning. The importance of loss functions in guiding model learning, optimization strategies ranging from gradient descent variants to adaptive methods like Adam and RMSProp, and regularization techniques such as dropout, weight decay, and data augmentation were also emphasized for improving generalization. Stabilization methods, including weight initialization and batch normalization, were considered alongside hyperparameter tuning practices to refine performance. The groundwork further extends to prominent neural network architectures — CNNs, RNNs, LSTMs, and Transformers — with attention to their relevance across practical problem domains. The attached visuals provide a structured overview of these components, serving as a quick reference to the foundational elements underpinning the learning objectives of the project.
+
+|  | |
+|---------|---------|
+| [![Alt text 1](NN_Concepts_Quick_Reference_1.png)](NN_Concepts_Quick_Reference_1.png)|[![Alt text 2](NN_Concepts_Quick_Reference_2.png)](NN_Concepts_Quick_Reference_2.png) |
 
 ## Problem Statement
 
