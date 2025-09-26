@@ -1,5 +1,17 @@
 ## Foundational Concepts for Neural Networks
-As groundwork for the project, foundational concepts of neural networks have been outlined to establish a solid base. Core elements such as perceptrons, multilayer perceptrons, and activation functions, along with the training process involving forward propagation, loss computation, backpropagation, and parameter updates, form crucial aspects of the learning. The importance of loss functions in guiding model learning, optimization strategies ranging from gradient descent variants to adaptive methods like Adam and RMSProp, and regularization techniques such as dropout, weight decay, and data augmentation were also emphasized for improving generalization. Stabilization methods, including weight initialization and batch normalization, were considered alongside hyperparameter tuning practices to refine performance. The groundwork further extends to prominent neural network architectures — CNNs, RNNs, LSTMs, and Transformers — with attention to their relevance across practical problem domains. The attached visuals provide a structured overview of these components, serving as a quick reference to the foundational elements underpinning the learning objectives of the project.
+
+🚀 As part of my current studies, I have been learning the foundational concepts of neural networks. These concepts form the groundwork for the current project and provide the base before moving to the exercise and code implementation.
+
+🔹  The learning started with the core elements of neural networks — perceptrons, multilayer perceptrons, and activation functions. This was followed by the training process, which includes forward propagation, loss computation, backpropagation, and parameter updates.
+
+🔹  Key aspects such as loss functions and their role in guiding model learning were explored. Optimization strategies were studied, starting with gradient descent variants and extending to adaptive methods like Adam and RMSProp. Regularization techniques such as dropout, weight decay, and data augmentation were also emphasized to improve generalization.
+
+🔹  To stabilize the training process, methods like weight initialization and batch normalization were considered. Hyperparameter tuning was highlighted as a critical practice for refining performance.
+
+🔹  The learning further extended to well-known neural network architectures such as CNNs, RNNs, LSTMs, and Transformers, with attention to their applications in solving practical problems.
+
+The attached visuals provide a structured overview of these components. They serve as a quick reference to the foundational knowledge that underpins the project.
+
 
 |  | |
 |---------|---------|
